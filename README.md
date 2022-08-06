@@ -8,5 +8,9 @@ Cloning github project
 We will perform spice extraction and post layout
 
 ![image](https://user-images.githubusercontent.com/71206467/183242463-1662e1fe-38f4-4d84-9e82-b70ff34bd9b3.png)
+
 Invertor in magic
-red is polysilicon , when you hover on it, the name is shown
+red is polysilicon , when you hover on the colour pallet, the name of the layer is shown
+![image](https://user-images.githubusercontent.com/71206467/183249401-3e38ffee-6bcf-4501-97de-a84d9a8aebb2.png)
+
+
