@@ -13,4 +13,10 @@ Invertor in magic
 red is polysilicon , when you hover on the colour pallet, the name of the layer is shown
 ![image](https://user-images.githubusercontent.com/71206467/183249401-3e38ffee-6bcf-4501-97de-a84d9a8aebb2.png)
 
+![image](https://user-images.githubusercontent.com/71206467/183251300-fb521adc-9b0f-4247-8cfc-c0ef8d88f965.png)
+The highlighted portion is an nmos
+
+![image](https://user-images.githubusercontent.com/71206467/183251338-39d52bb5-2f98-4b5a-aa9c-7d8794e485bf.png)
+
+
 
