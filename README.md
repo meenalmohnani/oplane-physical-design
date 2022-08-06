@@ -17,9 +17,11 @@ red is polysilicon , when you hover on the colour pallet, the name of the layer 
 The highlighted portion is a nmos
 
 ![image](https://user-images.githubusercontent.com/71206467/183251338-39d52bb5-2f98-4b5a-aa9c-7d8794e485bf.png)
+
 The highlighted portion is a pmos
 
 ![image](https://user-images.githubusercontent.com/71206467/183259713-52fe96d0-a0b3-43af-b113-8856f75aaa9d.png)
+
 The command to extract the netlist
 
 
