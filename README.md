@@ -1,1 +1,3 @@
-# oplane-physical-design
+# openlane-physical-design
+
+## Day 3 lab
