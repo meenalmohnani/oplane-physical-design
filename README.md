@@ -24,4 +24,15 @@ The highlighted portion is a pmos
 
 The command to extract the netlist
 
+![image](https://user-images.githubusercontent.com/71206467/183259878-4a74ff6c-8012-4ceb-92d1-7072fc35e89b.png)
+The command to create spice file
+
+
+![image](https://user-images.githubusercontent.com/71206467/183259922-605ae2d6-6eea-44ad-9aed-6d2a0cef36a1.png)
+Spice file created
+
+![image](https://user-images.githubusercontent.com/71206467/183261496-414df4ef-767a-49bf-b9f9-76dd9b1e0c02.png)
+changing scale and adding pshort and nshort files
+
+![image](https://user-images.githubusercontent.com/71206467/183262348-088e7333-ec7f-402d-bf0f-425042cfd625.png)
 
