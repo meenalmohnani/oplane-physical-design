@@ -38,5 +38,3 @@ changing scale and adding pshort and nshort files
 Editing the spice file
 
 
-![image](https://user-images.githubusercontent.com/71206467/183262348-088e7333-ec7f-402d-bf0f-425042cfd625.png)
-
