@@ -34,5 +34,9 @@ Spice file created
 ![image](https://user-images.githubusercontent.com/71206467/183261496-414df4ef-767a-49bf-b9f9-76dd9b1e0c02.png)
 changing scale and adding pshort and nshort files
 
+![image](https://user-images.githubusercontent.com/71206467/183284514-e39607e1-6898-40be-80d1-3b293a617807.png)
+Editing the spice file
+
+
 ![image](https://user-images.githubusercontent.com/71206467/183262348-088e7333-ec7f-402d-bf0f-425042cfd625.png)
 
