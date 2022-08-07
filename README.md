@@ -77,7 +77,13 @@ After running the synthesis showing tns = 711 and wns = 23.89
 
 statics report showing the area used
 
+![image](https://user-images.githubusercontent.com/71206467/183305980-65bd9052-2932-44de-8496-7a2275b89def.png)
 
+timing report containing the worst negative slack
+
+![image](https://user-images.githubusercontent.com/71206467/183306071-311a3629-b316-46b5-9c64-e0b8a90ff03a.png)
+ 
+ parameters which we will change for optimising timing 
 
 both pmos and nmos are slow slow type means they will have max delay
 synthesis buffering : you want high fanout pins to be buffered , this in a way reduces the wire delay 
