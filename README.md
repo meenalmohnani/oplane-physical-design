@@ -68,6 +68,7 @@ It has removed the existing run
 ![image](https://user-images.githubusercontent.com/71206467/183305693-ec0232c3-f61f-41fd-a1b5-789720bce3ef.png)
 
 Merging our custom inverter lef to the design
+These three steps were to ensure that merged.lef gets created
 
 ![image](https://user-images.githubusercontent.com/71206467/183305813-d76527e4-9bb9-4d43-9b0b-c9a08407ce61.png)
 
@@ -83,11 +84,15 @@ timing report containing the worst negative slack
 
 ![image](https://user-images.githubusercontent.com/71206467/183306071-311a3629-b316-46b5-9c64-e0b8a90ff03a.png)
  
- parameters which we will change for optimising timing 
+ Opening readme file to check parameters which we will change for optimising timing 
+ 
+ ![image](https://user-images.githubusercontent.com/71206467/183306589-4920dee3-e985-40b0-a645-643e45ce5f1d.png)
+
+Checking and setting the synthesis paramenters in command promt
 
 both pmos and nmos are slow slow type means they will have max delay
 synthesis buffering : you want high fanout pins to be buffered , this in a way reduces the wire delay 
 
 inv 8 has a good drive strength
 
-Those three steps were to ensure that merged.lef gets created
+
