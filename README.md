@@ -144,6 +144,33 @@ fast.lib is for hold analysis
 
 slack after running sta analysis
 
+![image](https://user-images.githubusercontent.com/71206467/183395815-cb9cc2a4-b4e2-42ad-8785-20b23e64bb87.png)
+
+changing max fanout and running synthesis again
+
+decreasing fanout increased the tns in my case
+
+![image](https://user-images.githubusercontent.com/71206467/183412466-ab597ac0-b5dc-4f1c-b870-d9c40c40b33d.png)
+total 161 driver pins for this net
+
+![image](https://user-images.githubusercontent.com/71206467/183421772-a0d12e06-9d82-45ae-af6b-605c0924a2db.png)
+
+After running CTS
+
+![image](https://user-images.githubusercontent.com/71206467/183429481-7125fcf3-0c9e-48d7-83b3-c30f23e9e730.png)
+invoking openroad
+
+![image](https://user-images.githubusercontent.com/71206467/183436220-8a9a6b28-d54d-4767-9cde-73409adf8257.png)
+
+slack violated
+
+After running the correct analysis slack is met
+![image](https://user-images.githubusercontent.com/71206467/183440371-8fe921bd-d817-4224-8f7b-96c38d0daab9.png)
+
+
+
+
+
 
 
 
