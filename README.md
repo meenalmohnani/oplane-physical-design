@@ -95,4 +95,23 @@ synthesis buffering : you want high fanout pins to be buffered , this in a way r
 
 inv 8 has a good drive strength
 
+![image](https://user-images.githubusercontent.com/71206467/183359589-216bbbc3-cff7-40ab-9018-4345c69aee22.png)
+
+setting synthesis strategy to delay 1
+
+![image](https://user-images.githubusercontent.com/71206467/183361144-098bdb0e-a864-4450-ba84-d96a963c05c8.png)
+
+running synthesis after changing parameters
+negative slack got 0 means no violation
+
+![image](https://user-images.githubusercontent.com/71206467/183362911-c7126699-8e6d-4795-8540-ba0e01b0e006.png)
+
+Our custom standard cell is present in the merged.lef
+
+![image](https://user-images.githubusercontent.com/71206467/183363202-097936c6-7f0d-4abf-88c0-0675f0b2cb0a.png)
+
+running floorplan
+
+
+
 
