@@ -108,9 +108,31 @@ negative slack got 0 means no violation
 
 Our custom standard cell is present in the merged.lef
 
-![image](https://user-images.githubusercontent.com/71206467/183363202-097936c6-7f0d-4abf-88c0-0675f0b2cb0a.png)
+![image](https://user-images.githubusercontent.com/71206467/183364636-0c78f261-c615-4851-982d-f8bb95553b86.png)
 
-running floorplan
+running floorplan using init_floorplan command
+
+![image](https://user-images.githubusercontent.com/71206467/183365299-5c209697-8f16-4178-b84f-8e47060301e9.png)
+
+placing i/o
+
+![image](https://user-images.githubusercontent.com/71206467/183365827-86cfd4b1-3185-4285-b703-2927b7d578e9.png)
+
+No slack found after running gloabal placement
+
+running detailed routing
+inserting taps
+
+![image](https://user-images.githubusercontent.com/71206467/183365993-f8fb60ae-ccc9-4dd6-8891-b255bbb10c98.png)
+
+![image](https://user-images.githubusercontent.com/71206467/183368517-ade7644c-c7af-44e7-9879-aefca61fd33e.png)
+
+![image](https://user-images.githubusercontent.com/71206467/183368091-ef899c49-3855-4947-bea4-91efcdeb2dfb.png)
+
+
+opening placement in magic
+
+
 
 
 
