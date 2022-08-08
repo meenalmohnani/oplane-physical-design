@@ -169,6 +169,17 @@ After running the correct analysis slack is met
 
 
 
+## Day 5
+
+![image](https://user-images.githubusercontent.com/71206467/183460030-39c79adc-9f09-461a-a8e5-85420eb0bddf.png)
+
+running power distribution network
+
+![image](https://user-images.githubusercontent.com/71206467/183462307-ce9d93cf-0e3a-49e9-acda-15ff9646194a.png)
+
+Standard cell rail info
+
+
 
 
 
