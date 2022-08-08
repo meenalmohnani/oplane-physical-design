@@ -132,6 +132,17 @@ inserting taps
 
 opening placement in magic
 
+![image](https://user-images.githubusercontent.com/71206467/183369713-3ff08dd4-e4c2-45c5-b5e5-0fbb5b0f2f14.png)
+vsd inv cell in the design 
+overlapping means sharing of vdd and gnd
+
+![image](https://user-images.githubusercontent.com/71206467/183391342-98837c22-5e77-43b0-a0bd-b5b4fe81ac99.png)
+fast.lib is for hold analysis
+
+![image](https://user-images.githubusercontent.com/71206467/183392171-4fd3f4f4-1b7e-4f0f-aa59-91a63ede94b6.png)
+
+
+slack after running sta analysis
 
 
 
